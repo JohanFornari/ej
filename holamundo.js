@@ -1,6 +1,6 @@
 function ejecutar() {
 
-var palabra = document.getElementById("palabra").value.toString();
+var palabra = document.getElementById("valor").value.toString();
 
 document.getElementById("palabras").innerHTML = "La palabra ingresada es:  "+ palabra;
 
